@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\Converter\bin\Debug\Converter.exe.config
+C:\Users\ASUS\source\repos\Converter\bin\Debug\Converter.exe
+C:\Users\ASUS\source\repos\Converter\bin\Debug\Converter.pdb
+C:\Users\ASUS\source\repos\Converter\bin\Debug\NReco.VideoConverter.dll
+C:\Users\ASUS\source\repos\Converter\bin\Debug\NReco.VideoConverter.xml
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.csproj.CopyComplete
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.exe
+C:\Users\ASUS\source\repos\Converter\obj\Debug\Converter.pdb
